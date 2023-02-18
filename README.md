@@ -14,7 +14,7 @@ As can see above the "ID" and "Customer ID" both are representing the same thing
 
 Below is the Dataset after merging.
 
-![ภาพ](https://user-images.githubusercontent.com/125641945/219855185-07134f70-9c91-4c75-8fcb-2ee8d90be163.png)
+![ภาพ](https://user-images.githubusercontent.com/125641945/219856971-b328ddc5-30e6-44df-8b53-50ef5ffcb1c9.png)
 
 This the new dataset about the number of time each Food Item was sold.
 
